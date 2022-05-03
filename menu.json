@@ -1,0 +1,94 @@
+[
+    {
+        "name":"Mango Smoothie",
+        "description":"Sour and sweet taste in it can boost ur energy for day.",
+        "type":"smoothie"     
+    },{
+        "name":"Banana Smoothie",
+        "description":"Its like an island heaven, rich and delicious and highly nutritious, sweetened only by raw agave nectar.",
+        "type":"smoothie"
+    },{
+        "name":"Kiwi Strawberry Smoothie",
+        "description":"Fruity goodness for smoothie lovers!!!",
+        "type":"smoothie"
+    },{
+        "name":"Blueberry Smoothie",
+        "description":"Ever wonder blueberry should be mixed with what? Here you goes, this is a delicious way to use up your blueberries.",
+        "type":"smoothie"
+    },
+    {
+        "name":"Chocolate Devil's Food Cake",
+        "description":"Chocolate-lovers, raise your hands (and forks)! This cake, made extra moist with oil, features a fudge frosting and photo-worthy chocolate shards, along with a secret chocolate-enhancing ingredient.",
+        "type":"cake"
+    },{
+        "name":"Red Velvet Cake",
+        "description":"Surrounded with cream cheese frosting. This mysterious red cake has magical powers for lovers.",
+        "type":"cake"
+    },{
+        "name":"Better Than Sex Cake",
+        "description":"A very sickly sweet and delicious cake. Nobody can stop eating it after the first bite!",
+        "type":"cake"
+    },{
+        "name":"Carrot Cake",
+        "description":"Don't be confused with its name. This cake does not contain only carrot, but also shredded coconut, crushed pineapple and walnuts in it.",
+        "type":"cake"
+    },{
+        "name":"Oreo Cake",
+        "description":"What's the better one when this cake is filled with cream cheese frosting, chocolate cake, cookies and cream filling?",
+        "type":"cake"
+    },{
+        "name":"Strawberry Cake",
+        "description":"Eating this cake make you happy! Its pinkness is so nostalgic and sweet. Never ever missed this.",
+        "type":"cake"
+    },
+    {
+        "name":"Apple juice",
+        "description":"It keeps doctor away, keeps you hydrated, prevents sign of premature aging and many more. Apple are low in sodium, fat and cholesterol.",
+        "type":"juice"
+    },{
+        "name":"Cucumber juice",
+        "description":"Refreshing cucumber juice is a perfect antidote to the summer heat.",
+        "type":"juice"
+    },{
+        "name":"Lemon juice",
+        "description":"Lemon juice is delicious and healthy. It boosts your intake of vitamin C, helps lower blood pressure, promotes skin health and digestion.",
+        "type":"juice"
+    },{
+        "name":"Orange juice",
+        "description":"There's nothing better than a glass of freshly squeezed orange juice. Let's load up the vitamin C.",
+        "type":"juice"
+    },{
+        "name":"Papaya juice",
+        "description":"Papaya juice is full of antioxidants, vitamins and minerals. Papaya gives you 39kcal which makes it the best fruit in reducing cholestrol.",
+        "type":"juice"
+    },{
+        "name":"Pineapple juice",
+        "description":"Pineapple juice is 500% more effective at helping you to stop coughing compare to cough syrup.It contains a specific type of enzyme which eradicate bacteria.",
+        "type":"juice"
+    },
+    {
+        "name":"Taco",
+        "description":"An easy recipe that is easy to be made and mouth-watering.",
+        "type":"main dish"
+    },{
+        "name":"Burger",
+        "description":"Variety of sauces is added along with a seducing cheese. Yummy yummy!",
+        "type":"main dish"
+    },{
+        "name":"Chicken Chop",
+        "description":"Super tender chicken wrapped in a crunchy batter, smothered in a rich mushroom sauce.",
+        "type":"main dish"
+    },{
+        "name":"Pork Chop",
+        "description":"Crazy combination of pork chop with raspberry. Time spent on cooking this is quite long.",
+        "type":"main dish"
+    },{
+        "name":"Pasta Carbonara",
+        "description":"Perfect weeknight dinner! Packed with crispy bacon and mixed with the creamiest carbonara sauce, this dish is a total knockout.",
+        "type":"main dish"
+    },{
+        "name":"Lemon Garlic Parmesan Shrimp Pasta",
+        "description":"Fresh shrimp is cooked in a buttery lemon garlic sauce and gets tossed in fresh parmesan cheese and pasta.",
+        "type":"main dish"
+    }
+]

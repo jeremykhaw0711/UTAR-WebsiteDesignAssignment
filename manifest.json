@@ -1,0 +1,33 @@
+{
+    "name": "Taco Food",
+    "short_name": "Taco Food",
+    "lang": "en-US",
+    "start_url": "/shop.html",
+    "display": "standalone",
+    "theme_color": "#FF9800",
+    "background_color": "#FF9800",
+    "icons": [
+      {
+        "src": "images/icon/icon128.png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "images/icon/icon192.png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "images/icon/icon256.png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "images/icon/icon384.png",
+        "sizes": "384x384"
+      },
+      {
+        "src": "images/icon/icon512.png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
